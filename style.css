@@ -1,0 +1,104 @@
+h1 {
+  margin-bottom:40px;
+  font-size: 40px;
+  margin-left:300px;
+  
+  
+}
+
+.hi{
+  position: absolute;
+  top:110px;
+  left:490px;
+  font-family:"Abril Fatface";
+  color:#222 grey;
+    
+  
+}
+
+.Anakin {
+ 
+  position: absolute;
+  top:110px;
+  left:490px;
+  font-size:40px;
+  font-family:"Abril Fatface";
+  color:#222 grey;
+  
+}
+
+
+
+
+
+img {
+  
+  height:220px;
+}
+
+
+.box{
+  
+  max-width: 1500px;
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  text-align:center;
+  margin-bottom:40px;
+  
+}
+
+
+ blockquote{
+  height:100px;
+  background:#4b4545;
+  color:white;
+  max-width:500px;
+  margin-left:auto;
+  margin-right:auto;
+  
+   
+   
+   
+  
+
+}
+
+blockquote::before {
+  content: '”';
+  position:absolute;
+  content:open-quote;
+  font-size:5em;
+  top:1;
+   
+}
+
+.content{
+ position:absolute;
+  left:10px;
+  font-size:30px; 
+  font-family:"Abril Fatface";
+  display:flex;
+  align-items: center;
+  
+  
+}
+
+
+
+p {
+  
+  font-size:14px;
+  margin-left:450px;
+  font-family: "Josefin Sans";
+  color:#222 grey;
+}
+
+ul{
+  margin-left: 440px;
+  margin-top:30px;
+  margin-bottom:50px;
+  font-family:"Josefin Sans";
+  font-size:14px;
+  line-height:150%;
+  color:#222 grey;
